@@ -18,6 +18,7 @@ import static org.mockito.Mockito.*;
  *
  * Zwei Tests sind fertig: Lesen Sie sie und führen Sie sie aus.
  * Ergänzen Sie dann den TODO im ersten Test.
+ *
  */
 @ExtendWith(MockitoExtension.class)
 class VerlaengerungsServiceTest {
